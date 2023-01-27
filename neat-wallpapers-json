@@ -2,11 +2,91 @@
 	{
 		"name": "Neat Wallpaper 1",
 		"author": "Abhishek Kumar Sahu",
-		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
+		"url": "https://raw.githubusercontent.com/abhishek10kumar1/neat-wallpapers/main/wallpaper_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/abhishek10kumar1/thumbnails-for-neat-wallpapers/main/thumbnail_1.jpg",
 		"downloadable": false,
 		"dimensions": "2000 x 4000 px",
 		"copyright": "CreativeCommons Attribution-ShareALike"
 	},
-	
+	{
+		"name": "Neat Wallpaper 2",
+		"author": "Abhishek Kumar Sahu",
+		"url": "https://raw.githubusercontent.com/abhishek10kumar1/neat-wallpapers/main/wallpaper_2.png",
+		"thumbnail": "https://raw.githubusercontent.com/abhishek10kumar1/thumbnails-for-neat-wallpapers/main/thumbnail_2.jpg",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Neat Wallpaper 3",
+		"author": "Abhishek Kumar Sahu",
+		"url": "https://raw.githubusercontent.com/abhishek10kumar1/neat-wallpapers/main/wallpaper_3.png",
+		"thumbnail": "https://raw.githubusercontent.com/abhishek10kumar1/thumbnails-for-neat-wallpapers/main/thumbnail_3.jpg",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Neat Wallpaper 4",
+		"author": "Abhishek Kumar Sahu",
+		"url": "https://raw.githubusercontent.com/abhishek10kumar1/neat-wallpapers/main/wallpaper_4.png",
+		"thumbnail": "https://raw.githubusercontent.com/abhishek10kumar1/thumbnails-for-neat-wallpapers/main/thumbnail_4.jpg",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Neat Wallpaper 5",
+		"author": "Abhishek Kumar Sahu",
+		"url": "https://raw.githubusercontent.com/abhishek10kumar1/neat-wallpapers/main/wallpaper_5.png",
+		"thumbnail": "https://raw.githubusercontent.com/abhishek10kumar1/thumbnails-for-neat-wallpapers/main/thumbnail_5.jpg",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Neat Wallpaper 6",
+		"author": "Abhishek Kumar Sahu",
+		"url": "https://raw.githubusercontent.com/abhishek10kumar1/neat-wallpapers/main/wallpaper_6.png",
+		"thumbnail": "https://raw.githubusercontent.com/abhishek10kumar1/thumbnails-for-neat-wallpapers/main/thumbnail_6.jpg",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Neat Wallpaper 7",
+		"author": "Abhishek Kumar Sahu",
+		"url": "https://raw.githubusercontent.com/abhishek10kumar1/neat-wallpapers/main/wallpaper_7.png",
+		"thumbnail": "https://raw.githubusercontent.com/abhishek10kumar1/thumbnails-for-neat-wallpapers/main/thumbnail_7.jpg",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Neat Wallpaper 8",
+		"author": "Abhishek Kumar Sahu",
+		"url": "https://raw.githubusercontent.com/abhishek10kumar1/neat-wallpapers/main/wallpaper_8.png",
+		"thumbnail": "https://raw.githubusercontent.com/abhishek10kumar1/thumbnails-for-neat-wallpapers/main/thumbnail_8.jpg",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Neat Wallpaper 9",
+		"author": "Abhishek Kumar Sahu",
+		"url": "https://raw.githubusercontent.com/abhishek10kumar1/neat-wallpapers/main/wallpaper_9.png",
+		"thumbnail": "https://raw.githubusercontent.com/abhishek10kumar1/thumbnails-for-neat-wallpapers/main/thumbnail_9.jpg",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "Neat Wallpaper 10",
+		"author": "Abhishek Kumar Sahu",
+		"url": "https://raw.githubusercontent.com/abhishek10kumar1/neat-wallpapers/main/wallpaper_10.png",
+		"thumbnail": "https://raw.githubusercontent.com/abhishek10kumar1/thumbnails-for-neat-wallpapers/main/thumbnail_10.jpg",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
 ]
