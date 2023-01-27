@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Neat Wallpaper 1",
+		"author": "Abhishek Kumar Sahu",
+		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
+		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
+		"downloadable": false,
+		"dimensions": "2000 x 4000 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	
+]
