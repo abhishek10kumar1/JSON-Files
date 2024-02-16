@@ -662,5 +662,5 @@
         "collections": "Aurora",
         "dimensions": "4k Resolution",
         "copyright": "Personal Use Only"
-    },
+    }
 ]
