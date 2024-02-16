@@ -1,0 +1,666 @@
+[
+{
+        "name": "Aurora 83",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/83.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 82",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/82.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 81",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/81.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 80",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/80.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 79",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/79.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 78",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/78.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 77",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/77.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 76",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/76.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 75",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/75.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 74",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/74.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 73",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/73.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 72",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/72.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 71",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/71.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 70",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/70.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 69",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/69.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 68",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/68.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 67",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/67.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 66",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/66.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 65",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/65.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 64",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/64.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 63",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/63.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 62",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/62.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 61",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/61.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 60",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/60.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 59",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/59.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 58",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/58.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 57",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/57.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 56",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/56.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 55",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/55.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 54",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/54.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 53",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/53.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 52",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/52.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 51",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/51.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 50",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/50.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 49",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/49.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 48",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/48.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 47",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/47.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 46",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/46.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 45",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/45.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 44",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/44.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 43",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/43.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 42",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/42.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 41",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/41.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 40",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/40.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 39",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/39.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 38",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/38.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 37",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/37.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 36",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/36.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 35",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/35.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 34",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/34.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 33",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/33.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 32",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/32.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 31",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/31.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 30",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/30.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 29",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/29.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 28",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/28.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 27",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/27.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 26",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/26.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 25",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/25.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 24",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/24.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 23",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/23.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 22",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/22.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 21",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/21.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 20",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/20.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 19",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/19.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 18",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/18.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 17",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/17.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 16",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/16.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 15",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/15.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 14",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/14.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Aurora 13",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/13.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+    {
+        "name": "Aurora 12",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/12.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+    {
+        "name": "Aurora 11",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/11.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+    {
+        "name": "Aurora 10",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/10.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+    {
+        "name": "Aurora 9",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/9.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+	{
+        "name": "Aurora 8",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/8.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+	{
+        "name": "Aurora 7",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/7.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+	{
+        "name": "Aurora 6",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/6.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+	{
+        "name": "Aurora 5",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/5.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+	{
+        "name": "Aurora 4",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/4.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+	{
+        "name": "Aurora 3",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/3.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+	{
+        "name": "Aurora 2",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/2.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+	{
+        "name": "Aurora 1",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Aurora-Wallpapers/main/1.jpg",
+        "collections": "Aurora",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+]
