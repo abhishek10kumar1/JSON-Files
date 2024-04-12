@@ -1,6 +1,54 @@
 [
 {
-        "name": "[NEW] Glo 78",
+        "name": "[NEW] Glo 84",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/84.jpg",
+        "collections": "Glo",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Glo 83",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/83.jpg",
+        "collections": "Glo",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Glo 82",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/82.jpg",
+        "collections": "Glo",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Glo 81",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/81.jpg",
+        "collections": "Glo",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Glo 80",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/80.jpg",
+        "collections": "Glo",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Glo 79",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/79.jpg",
+        "collections": "Glo",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Glo 78",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/78.jpg",
         "collections": "Glo",
@@ -8,7 +56,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 77",
+        "name": "Glo 77",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/77.jpg",
         "collections": "Glo",
@@ -16,7 +64,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 76",
+        "name": "Glo 76",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/76.jpg",
         "collections": "Glo",
@@ -24,7 +72,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 75",
+        "name": "Glo 75",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/75.jpg",
         "collections": "Glo",
@@ -32,7 +80,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 74",
+        "name": "Glo 74",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/74.jpg",
         "collections": "Glo",
@@ -40,7 +88,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 73",
+        "name": "Glo 73",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/73.jpg",
         "collections": "Glo",
@@ -48,7 +96,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 72",
+        "name": "Glo 72",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/72.jpg",
         "collections": "Glo",
@@ -56,7 +104,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 71",
+        "name": "Glo 71",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/71.jpg",
         "collections": "Glo",
@@ -64,7 +112,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 70",
+        "name": "Glo 70",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/70.jpg",
         "collections": "Glo",
@@ -72,7 +120,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 69",
+        "name": "Glo 69",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/69.jpg",
         "collections": "Glo",
@@ -80,7 +128,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 68",
+        "name": "Glo 68",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/68.jpg",
         "collections": "Glo",
@@ -88,7 +136,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 67",
+        "name": "Glo 67",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/67.jpg",
         "collections": "Glo",
@@ -96,7 +144,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 66",
+        "name": "Glo 66",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/66.jpg",
         "collections": "Glo",
@@ -104,7 +152,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 65",
+        "name": "Glo 65",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/65.jpg",
         "collections": "Glo",
@@ -112,7 +160,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 64",
+        "name": "Glo 64",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/64.jpg",
         "collections": "Glo",
@@ -120,7 +168,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 63",
+        "name": "Glo 63",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/63.jpg",
         "collections": "Glo",
@@ -128,7 +176,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 62",
+        "name": "Glo 62",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/62.jpg",
         "collections": "Glo",
@@ -136,7 +184,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 61",
+        "name": "Glo 61",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/61.jpg",
         "collections": "Glo",
@@ -144,7 +192,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 60",
+        "name": "Glo 60",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/60.jpg",
         "collections": "Glo",
@@ -152,7 +200,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Glo 59",
+        "name": "Glo 59",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Glo-Wallpapers/main/59.jpg",
         "collections": "Glo",
