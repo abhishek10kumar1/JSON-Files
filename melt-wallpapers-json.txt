@@ -1,6 +1,54 @@
 [
 {
-        "name": "[NEW] Melt 100",
+        "name": "[NEW] Melt 106",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/106.jpg",
+        "collections": "Melt",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Melt 105",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/105.jpg",
+        "collections": "Melt",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Melt 104",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/104.jpg",
+        "collections": "Melt",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Melt 103",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/103.jpg",
+        "collections": "Melt",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Melt 102",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/102.jpg",
+        "collections": "Melt",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Melt 101",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/101.jpg",
+        "collections": "Melt",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Melt 100",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/100.jpg",
         "collections": "Melt",
@@ -8,7 +56,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 99",
+        "name": "Melt 99",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/99.jpg",
         "collections": "Melt",
@@ -16,7 +64,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 98",
+        "name": "Melt 98",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/98.jpg",
         "collections": "Melt",
@@ -24,7 +72,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 97",
+        "name": "Melt 97",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/97.jpg",
         "collections": "Melt",
@@ -32,7 +80,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 96",
+        "name": "Melt 96",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/96.jpg",
         "collections": "Melt",
@@ -40,7 +88,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 95",
+        "name": "Melt 95",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/95.jpg",
         "collections": "Melt",
@@ -48,7 +96,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 94",
+        "name": "Melt 94",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/94.jpg",
         "collections": "Melt",
@@ -56,7 +104,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 93",
+        "name": "Melt 93",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/93.jpg",
         "collections": "Melt",
@@ -64,7 +112,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 92",
+        "name": "Melt 92",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/92.jpg",
         "collections": "Melt",
@@ -72,7 +120,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 91",
+        "name": "Melt 91",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/91.jpg",
         "collections": "Melt",
@@ -80,7 +128,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 90",
+        "name": "Melt 90",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/90.jpg",
         "collections": "Melt",
@@ -88,7 +136,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 89",
+        "name": "Melt 89",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/89.jpg",
         "collections": "Melt",
@@ -96,7 +144,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 88",
+        "name": "Melt 88",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/88.jpg",
         "collections": "Melt",
@@ -104,7 +152,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 87",
+        "name": "Melt 87",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/87.jpg",
         "collections": "Melt",
@@ -112,7 +160,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 86",
+        "name": "Melt 86",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/86.jpg",
         "collections": "Melt",
@@ -120,7 +168,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 85",
+        "name": "Melt 85",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/85.jpg",
         "collections": "Melt",
@@ -128,7 +176,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 84",
+        "name": "Melt 84",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/84.jpg",
         "collections": "Melt",
@@ -136,7 +184,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 83",
+        "name": "Melt 83",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/83.jpg",
         "collections": "Melt",
@@ -144,7 +192,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 82",
+        "name": "Melt 82",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/82.jpg",
         "collections": "Melt",
@@ -152,7 +200,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Melt 81",
+        "name": "Melt 81",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Melt-Wallpapers/main/81.jpg",
         "collections": "Melt",
