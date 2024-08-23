@@ -1,6 +1,46 @@
 [
 {
-        "name": "[NEW] Diff 190",
+        "name": "[NEW] Diff 195",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/195.jpg",
+        "collections": "Diff",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Diff 194",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/194.jpg",
+        "collections": "Diff",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Diff 193",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/193.jpg",
+        "collections": "Diff",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Diff 192",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/192.jpg",
+        "collections": "Diff",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "[NEW] Diff 191",
+        "author": "Abhishek Kumar Sahu",
+        "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/191.jpg",
+        "collections": "Diff",
+        "dimensions": "4k Resolution",
+        "copyright": "Personal Use Only"
+    },
+{
+        "name": "Diff 190",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/190.jpg",
         "collections": "Diff",
@@ -8,7 +48,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Diff 189",
+        "name": "Diff 189",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/189.jpg",
         "collections": "Diff",
@@ -16,7 +56,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Diff 188",
+        "name": "Diff 188",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/188.jpg",
         "collections": "Diff",
@@ -24,7 +64,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Diff 187",
+        "name": "Diff 187",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/187.jpg",
         "collections": "Diff",
@@ -32,7 +72,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Diff 186",
+        "name": "Diff 186",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/186.jpg",
         "collections": "Diff",
@@ -40,7 +80,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Diff 185",
+        "name": "Diff 185",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/185.jpg",
         "collections": "Diff",
@@ -56,7 +96,7 @@
         "copyright": "Personal Use Only"
     },
 {
-        "name": "[NEW] Diff 183",
+        "name": "Diff 183",
         "author": "Abhishek Kumar Sahu",
         "url": "https://raw.githubusercontent.com/abhishek10kumar1/Diff-Wallpapers/main/183.jpg",
         "collections": "Diff",
